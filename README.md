@@ -41,12 +41,19 @@ Detailed findings and recommendations are documented in the Jupyter Notebook.
 
 ## Project Structure
 
-```text
-superstore-retail-sales-eda/
+Superstore-Retail-Sales-EDA/
 │
 ├── Superstore_Retail_Sales_EDA.ipynb
-└── README.md
-```
+├── README.md
+├── superstore_sales.csv
+└── visualizations/
+    ├── average_profit_by_discount.png
+    ├── customer_sales_distribution.png
+    ├── monthly_sales_performance.png
+    ├── monthly_sales_by_year.png
+    ├── discount_profit_relationship.png
+    ├── regional_sales_profit.png
+    └── segment_sales_profit.png
 
 ## How to Use
 
